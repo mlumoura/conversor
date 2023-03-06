@@ -36,6 +36,7 @@ Converte moedas nos seguintes formatos:
 <li>De Peso Chileno a Reais
 <Li>De Yenes a Reais
 <li>De Won Sul Coreano a Reais
+</ul>
                 
 e temperaturas:  
 
